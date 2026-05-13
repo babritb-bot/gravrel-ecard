@@ -193,7 +193,7 @@ function App() {
               </div>
               <div className="ceo-info">
                 {/* EDIT THIS: Change the name below */}
-                <h3 className="ceo-name" data-testid="cfo-name">Full Name</h3>
+                <h3 className="ceo-name" data-testid="cfo-name">Shankar Lal</h3>
                 <p className="ceo-title" data-testid="cfo-title">Chief Financial Officer</p>
                 <p className="ceo-bio" data-testid="cfo-bio">
                   Driving GravRel's financial strategy and sustainable growth. Overseeing 

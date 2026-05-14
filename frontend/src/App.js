@@ -185,7 +185,7 @@ function App() {
               <div className="ceo-image-wrapper">
                 {/* EDIT THIS: Replace the src with your CFO photo path */}
                 <img 
-                  src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=srgb&fm=jpg&ixlib=rb-4.1.0&q=85&w=800" 
+                  src="https://unsplash.com/photos/a-man-with-a-beard-and-glasses-holding-a-cross-Nf0rrrR4z0E" 
                   alt="CFO Photo" 
                   className="ceo-image"
                   data-testid="cfo-image"
